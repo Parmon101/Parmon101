@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="100"/>
+</div>
+
 <!--
 **Parmon101/Parmon101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
